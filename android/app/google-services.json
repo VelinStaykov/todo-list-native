@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225902048387",
+    "firebase_url": "https://to-do-list-67397.firebaseio.com",
+    "project_id": "to-do-list-67397",
+    "storage_bucket": "to-do-list-67397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225902048387:android:f352ed77b73a758ce0d7b6",
+        "android_client_info": {
+          "package_name": "com.tododonative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225902048387-ot8cpe9nospm8c0q3p0b66mudijrbn5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt5zwarFSQozF_9b9Kuo4Hb1LyWExVz9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225902048387-ot8cpe9nospm8c0q3p0b66mudijrbn5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
