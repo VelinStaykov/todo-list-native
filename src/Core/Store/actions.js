@@ -1,4 +1,3 @@
-export const GETTODOS = "GETTODOS";
 export const GOTTODOS = "GOTTODOS";
 
 export const TODOADD = "TODOADD";
